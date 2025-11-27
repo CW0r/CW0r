@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CW0r
-- 👀 I’m interested in Games
-- 🌱 I’m currently learning C# & Unity
+- 👀 I’m interested in Cyber Security
+- 🌱 I’m currently learning C and C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
