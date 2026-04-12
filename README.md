@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CW0r
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and Minecraft Modding
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
